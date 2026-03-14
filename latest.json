@@ -1,0 +1,20 @@
+{
+  "version": "1.2.0",
+  "build": "2026.03.14",
+  "releaseDate": "2026-03-14",
+  "product": "Carcelynx Enterprise EHR",
+  "author": "Addis Walcott",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/AddisWalcott/carcelynx-releases/releases/download/v1.2.0/Carcelynx_EHR_Update_v1.2.0.carcelynx-update",
+  "fileSize": "270 KB",
+  "releaseNotes": [
+    "15 new clinical modules: MAR, Sick Call, Suicide Watch, Chronic Disease, NEWS2, Allergy, Consent, CS Log, Discharge Planning and more",
+    "Collapsible sidebar navigation groups",
+    "Modern rounded UI with 5 colour themes",
+    "Animated splash screen with Cx logo",
+    "In-app OTA update system with live progress steps",
+    "All export functions fixed",
+    "Patient add visibility fixed",
+    "Full record lists in all clinical views"
+  ]
+}
